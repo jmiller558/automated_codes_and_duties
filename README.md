@@ -59,5 +59,6 @@
     }
     ```
   
-  You can have multiple items in the list.
-  Results emailed to the caller email.
+  You can have multiple items in the Items list.
+  
+  Results are emailed to the caller email.
