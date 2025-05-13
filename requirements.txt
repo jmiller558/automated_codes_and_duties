@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+logfire
+google-genai
+langchain
+langchain-google-genai
+langgraph
+firecrawl
+aiohttp
